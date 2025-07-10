@@ -16,7 +16,7 @@ activity of any user.
 Clone the repository and build:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Github_User_Activity.git
+git clone https://github.com/Moukhtar-youssef/Github_User_Activity.git
 cd Github_User_Activity
 go build -o github_activity
 ```
